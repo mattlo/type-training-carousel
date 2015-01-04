@@ -1,0 +1,20 @@
+{
+  "name": "type-training-carousel",
+  "version": "0.0.1",
+  "authors": [
+    "Matt Lo <mattlo.developer@gmail.com>"
+  ],
+  "description": "training app",
+  "keywords": [
+    "training"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mattlo/type-training-carousel",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
